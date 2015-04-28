@@ -5,4 +5,4 @@ Little command line python app to get a few bits of information about a movie on
 
 To setup:
 
-   python setup.py install
+    python setup.py install
